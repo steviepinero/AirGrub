@@ -10,6 +10,10 @@ class ProductsController < ApplicationController
   # GET /products/1
   # GET /products/1.json
   def show
+<<<<<<< HEAD
+    @review = Review.new
+=======
+>>>>>>> f9b6481ee0580c15c17ae7f386bba64c71c9aa09
   end
 
   # GET /products/new

@@ -4,19 +4,29 @@ ul {
 
 
 body {
-  background-image: url('http://i1031.photobucket.com/albums/y375/Stevie_Pinero/313129-earth-from-space-picsay_zps69t42vpd.jpg');
+  background-image: url('https://criticalexaminer.files.wordpress.com/2014/04/super-market-vegetable-rainbow-display.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
 
 }
 
 #order {
-  color: #8A2BE2;
-  font-size: 1.6em;
+  color: #FF5930;
+  text-shadow: 1em 1em 1em black;
+  font-size: 1.4em;
+  background-color: #CC7A00;
+  border-radius: 1em;
+  border-style: dashed;
+  border-color: green;
+  margin: 2em;
+  background-image: url('http://www.constructionweekonline.com/pictures/CG%20pix%202/drone/banner_1.gif');
+  background-size: cover;
+  background-position: center;
 }
 
 header p {
-  color: #8A2BE2;
+  margin:2em;
+  color: #CC7A00;
 
 }
 div {

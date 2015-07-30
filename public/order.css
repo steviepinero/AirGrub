@@ -46,6 +46,29 @@ div {
 
 }
 
+#tabletitle {
+  background-color: orange;
+  border-radius: 1em;
+  border-color: black;
+  border-style: groove;
+  text-align: center;
+}
+
+table {
+  background-color: orange;
+  border-radius: 1em;
+  border-style: groove;
+  border-color: black;
+  text-align: center;
+}
+
+#newproduce {
+  background-color: orange;
+  border-radius: 1em;
+  border-color: black;
+  text-align: center;
+}
+
 /*#foodlist:hover {
   color: red;
 }*/

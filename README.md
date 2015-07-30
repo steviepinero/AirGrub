@@ -1,2 +1,0 @@
-# AirGrub
-Trio Project

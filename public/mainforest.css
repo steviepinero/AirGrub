@@ -11,8 +11,9 @@ body {
 }
 
 #header {
-  color: #8A2BE2;
+  color: orange;
   font-size: 2em;
+  text-align: center;
 }
 
 #header:hover {
@@ -21,6 +22,24 @@ body {
 		text-transform: uppercase;
 	}
 header p {
-  color: #8A2BE2;
+  color: orange;
 
+}
+
+#mainmenu {
+  text-align: center;
+
+}
+
+.button {
+display: block;
+width: 115px;
+height: 25px;
+background: orange;
+padding: 10px;
+text-align: center;
+border-radius: 5px;
+color: white;
+font-weight: bold;
+margin: 1em;
 }

@@ -79,6 +79,14 @@ table {
   text-align: center;
   color: black;
 }
+
+#map {
+  margin: 1em;
+  padding: auto;
+  align-self: center;
+  border-radius: 0.2em;
+  align-content: center;
+}
 /*#foodlist:hover {
   color: red;
 }*/

@@ -2,6 +2,9 @@ ul {
   list-style: none;
 }
 
+ol {
+  list-style: circle;
+}
 
 body {
   background-image: url('https://criticalexaminer.files.wordpress.com/2014/04/super-market-vegetable-rainbow-display.jpeg');
@@ -69,6 +72,13 @@ table {
   text-align: center;
 }
 
+#faq {
+  background-color: orange;
+  border-radius: 1em;
+  border-color: black;
+  text-align: center;
+  color: black;
+}
 /*#foodlist:hover {
   color: red;
 }*/
